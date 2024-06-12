@@ -14,15 +14,13 @@ int main (){
     int n; cin >> n;
     int a[n];
     // INPUT
-    for(int i = 0; i < 100; i++){
+    for(int i = 0; i < n; i++){
         cin >> a[i];
     }
     // ALGORITHM
-
+   
     // OUTPUT
     cout << result << endl;
-    cout << n - result << endl;
-
 
     return 0;
 }
