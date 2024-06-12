@@ -18,7 +18,7 @@ int main (){
         cin >> a[i];
     }
     // ALGORITHM
-   
+
     // OUTPUT
     cout << result << endl;
 
