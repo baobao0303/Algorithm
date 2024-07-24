@@ -10,6 +10,6 @@ int main() {
     freopen("output.txt", "w", stdout);
     #endif
 
-
+    
     return 0;
 }
